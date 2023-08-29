@@ -1,12 +1,7 @@
 ### Hi! :wave:
 
-I'm Daniel, and I'm a self-taught Machine Learning developer from Brazil :brazil: 
+I'm Daniel, and I'm a Generative AI developer from Brazil :brazil: 
 
-🎓 I graduated in Cinema and specialized in video editing and image post-production. I worked in the field for over ten years, but a mix of lack of opportunities and an interest in programming and artificial intelligence made me try new beginnings.
-
-About four years ago I decided to give programming a chance and what started out as a way to ensure a more stable future has also become a passion.
-
-Now I like to build intelligent systems for computer vision.
 
 ### 📫 You can contact me on:
 <a href="mailto:danielsabib@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -14,7 +9,7 @@ Now I like to build intelligent systems for computer vision.
 <a href="https://instagram.com/daniel.abib/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### 🌱 I’m currently learning 
-[Lean](https://leanprover.github.io/) on weekdays and [Haskell](https://github.com/daniabib/haskell-ufabc) on weekends. 
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models).
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&color=3776AB&logoColor=white)
