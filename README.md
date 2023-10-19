@@ -1,6 +1,6 @@
 ### Hi! :wave:
 
-I'm Daniel, and I'm a Generative AI developer from Brazil :brazil: 
+I'm Daniel, and I'm a Generative AI developer and artist from Brazil :brazil: 
 
 
 ### 📫 You can contact me on:
