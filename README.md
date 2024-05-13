@@ -30,9 +30,6 @@ I'm Daniel, and I'm a Generative AI developer and artist from Brazil :brazil:
 ![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=for-the-badge&logo=haskell&color=5D4F85&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=for-the-badge&logo=gnu-bash&color=4EAA25&logoColor=white)
 
-### ✨ My GitHub Stats 
-![Daniel Abib's github stats](https://github-readme-stats.vercel.app/api?username=daniabib&show_icons=true&hide_border=true&hide_title=true&theme=material-palenight)
-
 <!--
 <a href="https://twitter.com/daniabibs"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 --!>
